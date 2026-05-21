@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange)
+
+![Status](https://img.shields.io/badge/Project-Completed-green)
 # Incremental Data Analysis & Insight Generation System
 
 ## Overview

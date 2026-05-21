@@ -54,7 +54,10 @@ The system compares historical datasets with new datasets and automatically gene
 
 ## Files Included
 
-- incremental_analysis.ipynb
+- incremental_analysis.ipynb → Full source code
+- analysis_result.ipynb → Project outputs and visual results
+- sample_old_dataset.csv
+- sample_new_dataset.csv
 - README.md
 
 ---
